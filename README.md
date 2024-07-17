@@ -1,4 +1,5 @@
-# persona-core
-persona-core
+Career Couch
 
-test2
+funnel : upload resume -> get your persona details -> get pathway & roadmap for your next career
+
+Test it - https://career-guidance-ai.streamlit.app/
