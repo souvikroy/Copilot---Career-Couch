@@ -1,0 +1,2 @@
+#CHATGPT CONSTANT
+GPT_MODEL = 'gpt-3.5-turbo-0125'
